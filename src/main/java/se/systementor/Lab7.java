@@ -17,7 +17,6 @@ public class Lab7 {
         }
 
 
-        System.out.println(tal2);
     }
 
     
